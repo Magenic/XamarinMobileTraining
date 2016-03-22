@@ -4,8 +4,8 @@
 # Xamarin Mobile Training
 Training on creating mobile applications using Xamarin in iOS / Android / Windows Universal
 
-##Current Videos
-**Video 1: Fluid Layouts (Autolayout) in iOS TableViewCells**
+##Current Projects
+**1: Fluid Layouts (Autolayout) in iOS TableViewCells**
 
 #####Helpeful Website Links:
 [Apple Auto Layout Guide](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/)
@@ -21,5 +21,5 @@ Training on creating mobile applications using Xamarin in iOS / Android / Window
 * Create a Custom Cell
 * Use nuget package to setup NSConstraints
 
-##Upcoming Videos
-**Video 2:  Coming Soon
+##Upcoming Projects
+**2:  Coming Soon
