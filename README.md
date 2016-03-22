@@ -15,11 +15,11 @@ Training on creating mobile applications using Xamarin in iOS / Android / Window
 [Fluid Layout Github Page](https://github.com/FluentLayout/Cirrious.FluentLayout)
 
 #####Goals
-* Create A Project
-* Create a Shared Library 
-* Create a TableView
-* Create a Custom Cell
-* Use nuget package to setup NSConstraints
+* Add nuget package Cirrious FluidLayout
+* Create a Custom UITableViewCell
+  * Create UI Controls
+  * Create Constraints using FluidLayout
+* Create a Custom Table Source
 
 ##Upcoming Projects
 **2:  Coming Soon
