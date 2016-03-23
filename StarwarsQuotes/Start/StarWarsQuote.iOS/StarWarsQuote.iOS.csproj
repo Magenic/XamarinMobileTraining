@@ -9,6 +9,7 @@
     <RootNamespace>StarWarsQuote.iOS</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AssemblyName>StarWarsQuoteiOS</AssemblyName>
+    <RestorePackages>true</RestorePackages>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
     <DebugSymbols>true</DebugSymbols>
