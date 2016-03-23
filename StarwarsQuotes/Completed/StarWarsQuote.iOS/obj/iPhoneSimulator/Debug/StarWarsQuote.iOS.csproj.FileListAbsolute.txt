@@ -1,0 +1,15 @@
+C:\Code\StarwarsQuotes\StarWarsQuotes\StarWarsQuote.iOS\bin\iPhoneSimulator\Debug\Data\starwarsquotes.json
+C:\Code\StarwarsQuotes\StarWarsQuotes\StarWarsQuote.iOS\bin\iPhoneSimulator\Debug\StarWarsQuoteiOS.exe
+C:\Code\StarwarsQuotes\StarWarsQuotes\StarWarsQuote.iOS\bin\iPhoneSimulator\Debug\StarWarsQuoteiOS.pdb
+C:\Code\StarwarsQuotes\StarWarsQuotes\StarWarsQuote.iOS\bin\iPhoneSimulator\Debug\StarWarsQuotes.Core.dll
+C:\Code\StarwarsQuotes\StarWarsQuotes\StarWarsQuote.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\Code\StarwarsQuotes\StarWarsQuotes\StarWarsQuote.iOS\bin\iPhoneSimulator\Debug\StarWarsQuotes.Core.pdb
+C:\Code\StarwarsQuotes\StarWarsQuotes\StarWarsQuote.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.xml
+C:\Code\StarwarsQuotes\StarWarsQuotes\StarWarsQuote.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Code\StarwarsQuotes\StarWarsQuotes\StarWarsQuote.iOS\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+C:\Code\StarwarsQuotes\StarWarsQuotes\StarWarsQuote.iOS\obj\iPhoneSimulator\Debug\StarWarsQuote.iOS.csprojResolveAssemblyReference.cache
+C:\Code\StarwarsQuotes\StarWarsQuotes\StarWarsQuote.iOS\obj\iPhoneSimulator\Debug\StarWarsQuoteiOS.exe
+C:\Code\StarwarsQuotes\StarWarsQuotes\StarWarsQuote.iOS\obj\iPhoneSimulator\Debug\StarWarsQuoteiOS.pdb
+C:\Code\StarwarsQuotes\StarWarsQuotes\StarWarsQuote.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Code\StarwarsQuotes\StarWarsQuotes\StarWarsQuote.iOS\obj\iPhoneSimulator\Debug\StarWarsQuoteiOS.exe.mdb
+C:\Code\StarwarsQuotes\StarWarsQuotes\StarWarsQuote.iOS\bin\iPhoneSimulator\Debug\StarWarsQuoteiOS.exe.mdb

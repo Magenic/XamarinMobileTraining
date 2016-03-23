@@ -1,0 +1,104 @@
+{
+    "quotes": [
+    	{		
+			"movie": "A New Hope",
+		    "character": "Darth Vader",
+		    "quote" : "I’ve been waiting for you, Obi-Wan. We meet again, at last. The circle is now complete. When I left you, I was but the learner; now I am the master."
+		},
+		{		
+			"movie": "A New Hope",
+		    "character": "C-3PO",
+		    "quote" : "Don't get technical with me. What mission? What are you talking about? I've just about had enough of you. Go that way, you'll be malfunctioning in a day you near-sighted scrap pile."
+		},
+		{
+			"movie": "Return of the Jedi",
+		    "character": "Yoda",
+		    "quote" : "When 900 years old, you reach… Look as good, you will not."
+		},
+		{
+			"movie": "Revenge of the Sith",
+		    "character": "Senator Palptine",
+		    "quote" : "The Dark Side of the Force is the pathway to many abilities some consider to be… Unnatural."
+		},
+		{		
+			"movie": "A New Hope",
+		    "character": "Govenor Grand Moff",
+		    "quote" : "You don’t know how hard I found it, signing the order to terminate your life."
+		},
+		{
+			"movie": "Return of the Jedi",
+		    "character": "C-3PO",
+		    "quote" : "He’s holding a thermal detonator!"
+		},
+		{
+			"movie": "Attack of the Clones",
+		    "character": "Count Dooku",
+		    "quote" : "I sense great fear in you, Skywalker. You have hate… you have anger… but you don’t use them."
+		},
+		{
+			"movie": "A New Hope",
+		    "character": "Han Solo",
+		    "quote" : "Great, kid. Don’t get cocky."
+		},
+		{		
+			"movie": "The Empire Strikes Back",
+		    "character": "Darth Vader",
+		    "quote" : "Luke, you can destroy the Emperor. He has foreseen this. It is your destiny. Join me, and together we can rule the galaxy as father and son."
+		},
+		{
+			"movie": "A New Hope",
+		    "character": "Obi Wan Kenobi",
+		    "quote" : "You can’t win, Darth. Strike me down, and I will become more powerful than you could possibly imagine."
+		},
+		{
+			"movie": "A New Hope",
+		    "character": "Princess Leia",
+		    "quote" : "Aren't you a little short for a storm trooper?"
+		},
+		{
+			"movie": "Revenge of the Sith",
+		    "character": "Senator Palptine",
+		    "quote" : "The Dark Side of the Force is the pathway to many abilities some consider to be… Unnatural."
+		},
+		{		
+			"movie": "The Empire Strikes Back",
+		    "character": "Princess Leia",
+		    "quote" : "Why you stuck-up, half-witted, scruffy-looking nerf-herder!"
+		},
+		{
+			"movie": "Attack of the Clones",
+		    "character": "Yoda",
+		    "quote" : "Mmm. Lost a planet, Master Obi-Wan has. How embarrassing."
+		},
+		{
+			"movie": "The Empire Strikes Back",
+		    "character": "Han Solo",
+		    "quote" : "Lando’s not a system he’s a man!"
+		},
+		{
+			"movie": "A New Hope",
+		    "character": "Obi Wan Kenobi",
+		    "quote" : "These aren’t the droids you’re looking for..."
+		},
+		{		
+			"movie": "A New Hope",
+		    "character": "Han Solo",
+		    "quote" : "Traveling through hyperspace ain't like dusting crops, farm boy."
+		},
+		{
+			"movie": "A New Hope",
+		    "character": "Luke Skywalker",
+		    "quote" : "If there's a bright centre to the universe, you're on the planet that it's farthest from."
+		},
+		{		
+			"movie": "The Phantom Menace",
+		    "character": "C-3PO",
+		    "quote" : "Hello. I don't believe we have been introduced. R2-D2? A pleasure to meet you. I am C-3PO, Human-Cyborg Relations."
+		},
+		{
+			"movie": "Attack of the Clones",
+		    "character": "Count Dooku",
+		    "quote" : "Master Kenobi, you disappoint me. Yoda holds you in such high esteem. Surely you can do better!"
+		},
+	]	
+}

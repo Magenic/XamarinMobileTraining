@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="  Copyright (c) 2016 " textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="9" translatesAutoresizingMaskIntoConstraints="NO" id="8ie-xW-0ye" misplaced="YES">
+                    <rect key="frame" x="20" y="439" width="441" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Xamarin Training" textAlignment="center" lineBreakMode="tailTruncation" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="2">
+                    <rect key="frame" x="20" y="219" width="452" height="41"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="41" id="pWb-7a-vFI"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="32"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Star Wars Quotes" textAlignment="center" lineBreakMode="tailTruncation" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="5" misplaced="YES">
+                    <rect key="frame" x="20" y="297" width="441" height="21"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="21" id="KK5-3X-sVm"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="TeG-xO-tUa" image="magenic-logo-white.png">
+                    <rect key="frame" x="65" y="134" width="350" height="77"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="77" id="xPg-xw-dn8"/>
+                        <constraint id="8" firstItem="TeG-xO-tUa" firstAttribute="width" constant="350"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="2" firstAttribute="leading" secondItem="5" secondAttribute="leading" id="0L3-OX-9Nf"/>
+                <constraint firstItem="2" firstAttribute="trailing" secondItem="iN0-l3-epB" secondAttribute="trailingMargin" id="Fwi-eP-jUt"/>
+                <constraint firstItem="2" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="20" id="MmO-BH-GzT"/>
+                <constraint firstItem="2" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="Nzd-Cl-vDB"/>
+                <constraint firstItem="5" firstAttribute="top" secondItem="2" secondAttribute="bottom" constant="37" id="RgA-NJ-P6F"/>
+                <constraint firstAttribute="bottom" secondItem="8ie-xW-0ye" secondAttribute="bottom" constant="20" id="VyZ-si-r0L"/>
+                <constraint firstItem="5" firstAttribute="leading" secondItem="8ie-xW-0ye" secondAttribute="leading" id="YYy-8a-Li5"/>
+                <constraint firstItem="TeG-xO-tUa" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="65" id="iFy-ax-xVh"/>
+                <constraint firstItem="2" firstAttribute="top" secondItem="TeG-xO-tUa" secondAttribute="bottom" constant="8" symbolic="YES" id="kzx-wU-bvW"/>
+                <constraint firstItem="TeG-xO-tUa" firstAttribute="centerX" secondItem="5" secondAttribute="centerX" id="nLr-rc-UnE"/>
+                <constraint firstItem="5" firstAttribute="trailing" secondItem="8ie-xW-0ye" secondAttribute="trailing" id="nof-aM-6W3"/>
+                <constraint firstItem="2" firstAttribute="top" secondItem="TeG-xO-tUa" secondAttribute="bottom" constant="8" symbolic="YES" id="saK-1Y-Aio"/>
+                <constraint firstItem="TeG-xO-tUa" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="119" id="t91-Ej-cA9"/>
+                <constraint firstItem="TeG-xO-tUa" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="xwL-3S-Yd0"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="t91-Ej-cA9"/>
+                    <exclude reference="kzx-wU-bvW"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="548" y="455"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="Icon-120.png" width="120" height="120"/>
+        <image name="Icon-152.png" width="152" height="152"/>
+        <image name="Icon-180.png" width="180" height="180"/>
+        <image name="Icon-60.png" width="60" height="60"/>
+        <image name="icon-76.png" width="76" height="76"/>
+        <image name="Icon-76.png" width="76" height="76"/>
+        <image name="magenic-logo-white.png" width="350" height="77"/>
+    </resources>
+</document>
