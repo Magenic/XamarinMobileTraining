@@ -5,7 +5,7 @@
 Training on creating mobile applications using Xamarin in iOS / Android / Windows Universal
 
 ##Current Projects
-**1: Fluid Layouts (Autolayout) in iOS TableViewCells**
+**1: StarwarsQuotes - Fluid Layouts (Autolayout) in iOS TableViewCells**
 
 #####Helpeful Website Links:
 [Apple Auto Layout Guide](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/)
@@ -15,13 +15,14 @@ Training on creating mobile applications using Xamarin in iOS / Android / Window
 [Fluid Layout Github Page](https://github.com/FluentLayout/Cirrious.FluentLayout)
 
 #####Goals
-* Add nuget package Cirrious FluidLayout
 * Create a Custom UITableViewCell
+  * Use nuget package Cirrious FluidLayout
   * Create UI Controls
   * Create Constraints using FluidLayout
+  * Create Binding method
 * Create a Custom Table Source
 * Bind Data Source Async to UITableView
-* Use Automatic Dimensions to dynamically calculate row height
+* Setup UITableView to use Automatic Dimensions to dynamically calculate row height
 
 ##Upcoming Projects
 **2:  Coming Soon
