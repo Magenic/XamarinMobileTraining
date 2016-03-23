@@ -20,6 +20,8 @@ Training on creating mobile applications using Xamarin in iOS / Android / Window
   * Create UI Controls
   * Create Constraints using FluidLayout
 * Create a Custom Table Source
+* Bind Data Source Async to UITableView
+* Use Automatic Dimensions to dynamically calculate row height
 
 ##Upcoming Projects
 **2:  Coming Soon
